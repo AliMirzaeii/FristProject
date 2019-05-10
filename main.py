@@ -1,3 +1,4 @@
 print("Hello")
 print("ali")
-print("ali")
+print("zaza")
+print("reza")
